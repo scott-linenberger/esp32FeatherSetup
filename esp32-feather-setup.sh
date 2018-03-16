@@ -104,9 +104,3 @@ if [ ! -d esp32 ]; then
 
   exit;
 fi
-
-#begin cloning
-
-
-
-
